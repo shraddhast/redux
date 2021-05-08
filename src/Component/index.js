@@ -1,0 +1,1 @@
+export { buycake } from '../Component/Action/ActType'
