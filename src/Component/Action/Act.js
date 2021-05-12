@@ -3,7 +3,7 @@ import {BUY_CAKE, BUY_ICECREAM, DECREMENT, INCREMENT, INCREMENTFIVE } from './Ac
 export const incNumber =()=> { 
    return {
     type: INCREMENT
-   } 
+   }
 }
 
 export const decNumber =()=>{ 
